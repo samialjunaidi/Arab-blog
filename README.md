@@ -1,27 +1,1 @@
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>مدونة الخليج</title>
-  <link rel="stylesheet" href="style.css" />
-  <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700&display=swap" rel="stylesheet">
-</head>
-<body>
-  <header>
-    <h1>📚 مدونة الخليج</h1>
-    <p>مقالات تُنشأ تلقائيًا باستخدام الذكاء الاصطناعي</p>
-  </header>
 
-  <main>
-    <!-- START -->
-    <!-- هنا n8n يضيف المقالات -->
-    <!-- END -->
-  </main>
-
-  <footer>
-    <p>© 2025 مدونة الخليج - جميع الحقوق محفوظة</p>
-  </footer>
-</body>
-</html>
-# Arab-blog
